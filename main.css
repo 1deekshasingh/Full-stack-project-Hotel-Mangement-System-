@@ -1,0 +1,75 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.pic img
+{
+    height: 250px;
+    width: 100%;
+}
+.header
+{
+    height: 70px;
+    width: 100%;
+    text-transform: uppercase;
+}
+.header ul
+{
+    list-style: none;
+    display: inline-flex;
+    margin: 20px;
+    margin-top: 2px;
+}
+.header a{
+    text-decoration: none;
+    color: black;
+}
+.header li
+{
+    margin: 2px;
+    width: 185px;
+    border-color: black;
+    height: 50px;
+    line-height: 8vh;
+    border-radius: 10px;
+    text-align: center;
+    background-color: yellow;
+
+}
+.pics
+{
+    display: inline-flex;
+    margin: 20px;
+}
+
+.leftimage1 img
+{
+    height: 350px;
+    width: 500px;
+    border-radius: 10px;
+    padding-right: 10px;
+}
+
+.rightimage1 img{
+    height: 550px;
+    width: 800px;
+    border-radius: 10px;
+}
+.footer
+{
+    background-color: gray;
+    text-transform: uppercase;
+}
+.footer img
+{
+    float: right;
+    margin-top: 2px;
+    margin-right: 850px ;
+    height: 80px;
+    width: 80px;
+}
+.footer hr
+{
+    border: 1px solid papayawhip;
+}
