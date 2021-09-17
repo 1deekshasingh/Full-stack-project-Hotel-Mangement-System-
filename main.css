@@ -24,6 +24,9 @@
 .header a{
     text-decoration: none;
     color: black;
+    border:3px solid rgba(0, 0, 0, 0.835);
+   display:block;
+   border-radius: 10px;
 }
 .header li
 {
