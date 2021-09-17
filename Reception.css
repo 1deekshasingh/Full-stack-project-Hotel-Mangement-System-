@@ -5,7 +5,7 @@
 }
 .pic img
 {
-    height: 250px;
+    height: 300px;
     width: 100%;
 }
 .header
@@ -40,24 +40,21 @@
 .header ul li:hover{
     background-color: green;
 }
-.pics
+.heading h1
 {
-    display: inline-flex;
-    margin: 20px;
+    text-transform: uppercase;
+    height: 70px;
+    font-size: 60px;
+    margin-top: 20px;
 }
-
-.leftimage1 img
+.heading p
 {
-    height: 350px;
-    width: 500px;
-    border-radius: 10px;
-    padding-right: 10px;
+    font-size: 40px;
 }
-
-.rightimage1 img{
-    height: 550px;
-    width: 800px;
-    border-radius: 10px;
+.heading img
+{
+    margin-left: 400px;
+    
 }
 .footer
 {
