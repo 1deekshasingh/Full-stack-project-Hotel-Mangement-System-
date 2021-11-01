@@ -10,7 +10,7 @@ body{
 }
 
 .container{
-    background-color: rgba(0, 0, 0, 0.349);
+    background-color: rgba(0, 0, 0, 0.144);
     height: 600px;
     width: 900px;
 }
@@ -28,6 +28,7 @@ font-size: 25px;
 
 input {
     font-size: 15px;
+    font-weight: 200px;
     padding: 5px;
     border: 2px groove black;
     border-radius: 2px solid red;
@@ -67,9 +68,23 @@ select{
     background-color: rgba(127, 255, 212, 0.116);
 }
 h2{
-    font-size: 20px;
-    margin: auto;
+    padding: 20px;
 }
+a{
+    font-size: 30px;
+   border-radius: 15px;
+   border: 2px solid pink;
+  color: white;
+   margin-top: 45px;
+   background-color: rgba(128, 255, 0, 0.205);
+}
+
+.container a{
+    text-decoration: none;
+}
+
+
+
 
 
     
