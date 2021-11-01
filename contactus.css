@@ -8,7 +8,6 @@
     height: 300px;
     width: 100%;
 }
-
 .header
 {
     height: 70px;
@@ -48,17 +47,34 @@
 {
     text-transform: uppercase;
     height: 70px;
-    font-size: 60px;
+    font-size: 55px;
     margin-top: 20px;
+    margin-bottom: 15px;
 }
 .heading p
 {
+    text-transform: uppercase;
     font-size: 40px;
 }
-.heading img
+.heading p a
 {
-    margin-left: 400px;
+    text-transform: lowercase;
+}
+.paragragh p
+{
+    font-size: 35px;
+}
+.paragragh img
+{
+    margin-left: 250px;
+    height: 500px;
     
+}
+.paragragh h1
+{
+    text-transform: uppercase;
+    text-align: center;
+    font-size: 40px;
 }
 .footer
 {

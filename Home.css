@@ -35,13 +35,27 @@
     border-color: black;
     height: 50px;
     line-height: 8vh;
-    border-radius: 10px;
+    border-radius: 15px;
     text-align: center;
     background-color: yellow;
 
 }
 .header ul li:hover{
     background-color: green;
+}
+.dropdown
+{
+    display: none;
+}
+.header ul li:hover .dropdown
+{
+    display: block;
+    position: absolute;
+    margin-left: -25px;
+}
+.header ul li:hover .dropdown ul
+{
+    display: block;
 }
 .pics
 {
