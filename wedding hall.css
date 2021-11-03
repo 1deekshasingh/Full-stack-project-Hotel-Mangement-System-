@@ -40,6 +40,8 @@ body{
 {
     display: inline-flex;
     margin-left: 200px;
+    box-shadow: 0 15px 20px rgba(0, 0, 0, 0.712);
+
 }
 .image img
 {
@@ -58,6 +60,8 @@ body{
 {
     display: inline-flex;
     margin-left: 200px;
+    box-shadow: 0 15px 20px rgba(0, 0, 0, 0.712);
+
 }
 .image1 img
 {
@@ -76,6 +80,8 @@ body{
       display: inline-flex;
       margin: 150px;
       margin-top: 10px;
+      box-shadow: 0 15px 20px rgba(0, 0, 0, 0.712);
+
   }
   .image2 img{
       border-radius: 10px;
