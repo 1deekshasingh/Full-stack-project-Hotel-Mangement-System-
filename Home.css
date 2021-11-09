@@ -60,25 +60,27 @@
 .pics
 {
     display: inline-flex;
-    margin: 20px;
+    padding: 20px;
+    width: 100%;
 }
 
 .leftimage1 img
 {
     height: 350px;
-    width: 500px;
+    width: 450px;
     border-radius: 10px;
 }
 
 .rightimage1 img{
     height: 550px;
-    width: 800px;
+    width: 850px;
     border-radius: 10px;
 }
 .footer
 {
     background-color: gray;
     text-transform: uppercase;
+    width: 100%;
 }
 .footer img
 {
